@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\redqo\Desktop\Cpp\Cpp\chapter07\main.cpp(72,43): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\redqo\Desktop\Cpp\Cpp\chapter07\main.cpp(72,37): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\redqo\Desktop\Cpp\Cpp\chapter07\main.cpp(72,31): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\redqo\Desktop\Cpp\Cpp\chapter07\main.cpp(72,25): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  chapter07.vcxproj -> C:\Users\redqo\Desktop\Cpp\Cpp\Debug\chapter07.exe

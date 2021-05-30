@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\redqo\Desktop\Cpp\Cpp\inflearn_05\main.cpp(23,7): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\redqo\Desktop\Cpp\Cpp\inflearn_05\main.cpp(24,7): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\redqo\Desktop\Cpp\Cpp\inflearn_05\main.cpp(25,7): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\redqo\Desktop\Cpp\Cpp\inflearn_05\main.cpp(25,10): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+  inflearn_05.vcxproj -> C:\Users\redqo\Desktop\Cpp\Cpp\Debug\inflearn_05.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\redqo\Desktop\Cpp\Cpp\Chapter15_깊은복사\main.cpp(48,29): error C2664: 'Person::Person(char *,int)': 인수 1을(를) 'const char [9]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\redqo\Desktop\Cpp\Cpp\Chapter15_깊은복사\main.cpp(48,11): message : 문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\redqo\Desktop\Cpp\Cpp\Chapter15_깊은복사\main.cpp(20,2): message : 'Person::Person' 선언을 참조하십시오.

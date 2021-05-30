@@ -1,0 +1,5 @@
+﻿  Box.cpp
+C:\Users\redqo\Desktop\Cpp\Cpp\sub_카드짝맞추기\Box.cpp(5,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  main.cpp
+  코드를 생성하고 있습니다...
+  sub_카드짝맞추기.vcxproj -> C:\Users\redqo\Desktop\Cpp\Cpp\Debug\sub_카드짝맞추기.exe

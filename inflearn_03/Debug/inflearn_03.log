@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\redqo\Desktop\Cpp\Cpp\inflearn_03\main.cpp(22,17): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  inflearn_03.vcxproj -> C:\Users\redqo\Desktop\Cpp\Cpp\Debug\inflearn_03.exe
